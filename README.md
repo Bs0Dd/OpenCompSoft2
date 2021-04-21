@@ -8,6 +8,9 @@ Some software (mine and not only) for OpenComputers II
 * `tint` - TINT Is Not Tetris(tm) for OpenComputers II
 
    See [this text](https://github.com/Bs0Dd/OpenCompSoft2/blob/main/tint/README.md)
+* `cfiles` - cfile file manager for OpenComputers II
+
+   See [this text](https://github.com/Bs0Dd/OpenCompSoft2/blob/main/cfiles/README.md)
    
 **Some useful software**
 * `riscv64-linux-musl-cross` - GCC cross-compiler to make programs for OpenComputers II
