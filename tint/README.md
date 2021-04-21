@@ -1,6 +1,6 @@
 # TINT Is Not Tetris(tm)
 
-Compiled version for OpenComputers II.
+Compiled version for OpenComputers II.  
 [Original repo](https://github.com/DavidGriffith/tint).
 
 ![Screenshot](https://raw.githubusercontent.com/Bs0Dd/OpenCompSoft2/main/tint/screenshot.png)

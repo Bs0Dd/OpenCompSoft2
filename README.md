@@ -12,7 +12,7 @@ Some software (mine and not only) for OpenComputers II
 **Some useful software**
 * `riscv64-linux-musl-cross` - GCC cross-compiler to make programs for OpenComputers II
 
-   [Direct download (Linux)](https://musl.cc/riscv64-linux-musl-cross.tgz)
+   [Direct download (Linux)](https://musl.cc/riscv64-linux-musl-cross.tgz)  
    [Homepage](https://musl.cc)
 * `sedna-cli` - Sedna emulator for testing programs outside of Minecraft
 
